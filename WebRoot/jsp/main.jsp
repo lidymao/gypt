@@ -14,8 +14,8 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<meta http-equiv="pragma" content="no-cache">
 	<meta http-equiv="cache-control" content="no-cache">
 	<meta http-equiv="expires" content="0">    
-	<meta http-equiv="keywords" content="keyword1,keyword2,keyword3">
-	<meta http-equiv="description" content="This is my page">
+	<meta http-equiv="keywords" content="东恒公益,公益平台,公益之家">
+	<meta http-equiv="description" content="东恒公益，致力打造公益平台">
 	<!--
 	<link rel="stylesheet" type="text/css" href="styles.css">
 	-->
